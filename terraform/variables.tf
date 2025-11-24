@@ -10,10 +10,5 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-<<<<<<< HEAD
 ##
-### Updated Sat Nov 22 18:01:21 MST 2025
-=======
-####
-####
->>>>>>> stage
+# Fixed merge conflicts Sun Nov 23 17:55:38 MST 2025
