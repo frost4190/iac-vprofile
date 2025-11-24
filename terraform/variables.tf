@@ -11,4 +11,4 @@ variable "clusterName" {
 }
 
 ####
-####
+##### Fixed merge conflicts Sun Nov 23 17:55:38 MST 2025
